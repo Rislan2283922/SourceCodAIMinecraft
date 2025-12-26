@@ -6,7 +6,8 @@
 Development of this project is currently paused. The author is temporarily shifting focus to the development of a military vehicle simulation game. This repository serves as a snapshot of the engine's current state.
 
 ## 🤖 Development Method (AI Generated)
-**This entire project (100% of the code) was written by Google Gemini 3.0 Pro.**
+**This entire project (100% of the code) was written by Google Gemini 3.0 Pro.** даже описание и этот readme сделан нейронкой
+Сейчас я буду делать другую игру и хз зачем выложил этот сурс все равно он особо никому не понадобится ну просто чтобы был выложу наверное хз 
 
 - **Role of Repository Owner:** Direction, Game Design, Ideation, Debugging supervision.
 - **Role of AI:** Implementation of all C# logic, OpenGL rendering, Physics, and Math.
