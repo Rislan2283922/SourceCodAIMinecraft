@@ -1,3 +1,6 @@
+СОРЯН ЗА ТО ЧТО ФАЙЛЫ ИЗ ПАПКИ assest лежат в main ): неаккуратно залил все не умею особо git ом пользоватся
+-
+Sorry that the files from the assets folder are placed in main - I uploaded everything messily. I’m not very good at using Git yet.
 # Earthbound Voxel Engine
 Если надо чет уточнить то напишите на fan_murders_dromes
 Discord На код мне особо п***й просто нет желания делать уже копию майна хочется другую игру сделать мб про FPV дроны или танки или чет типа того мб и ее сурс выложу позже если вобще найду модели для нее и звуки эт меин проблема в создании игры через нейронку
